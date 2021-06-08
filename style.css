@@ -1,0 +1,46 @@
+body {
+  padding: 10px;
+}
+
+label {
+  font-size: larger;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input {
+  display: block;
+  margin: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+textarea {
+  margin: 10px;
+  display: block;
+}
+
+fieldset {
+  max-width: 600px;
+  border-style: outset;
+  border-radius: 10px;
+  background-color: tomato;
+}
+
+legend {
+  padding: 6px 12px;
+  border: 0;
+  background-color: navy;
+  color: white;
+  border-radius: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+  padding: 6px 12px;
+  margin: 20px 10px;
+  background-color: navy;
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;    
+}
